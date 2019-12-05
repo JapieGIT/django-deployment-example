@@ -25,7 +25,7 @@ SECRET_KEY = '94!3b2q603nab9sohqf*i^nry^*&@@=b_t3p91+6$g+!))r8+z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://japievdz.pythonanywhere.com/']
+ALLOWED_HOSTS = ['127.0.0.1','japievdz.pythonanywhere.com']
 
 
 # Application definition
